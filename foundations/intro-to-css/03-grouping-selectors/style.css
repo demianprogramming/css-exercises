@@ -7,12 +7,8 @@
     background-color: rgb(255, 255, 0);
 }
 
-.black-button.button-font {
-    font-family: "Helvetica", "Times New Roman", sans-serif;
-    font-size: 28px;
-}
-
-.yellow-button.button-font {
+.black-button,
+.yellow-button{
     font-family: "Helvetica", "Times New Roman", sans-serif;
     font-size: 28px;
 }
